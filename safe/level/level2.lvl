@@ -1,0 +1,16 @@
+<Level|node|MoveOverGaps?true|CheckSum?87|LevelNumber?2>
+<Field|leaf|YOnBoard?0|CurrentColor?RED|DesiredColor?GREEN|XOnBoard?0>
+</Field>
+<Field|leaf|YOnBoard?1|CurrentColor?RED|DesiredColor?NONE|XOnBoard?0>
+</Field>
+<Field|leaf|YOnBoard?1|CurrentColor?GREEN|DesiredColor?NONE|XOnBoard?1>
+</Field>
+<Field|leaf|YOnBoard?1|CurrentColor?GREEN|DesiredColor?NONE|XOnBoard?2>
+</Field>
+<Field|leaf|YOnBoard?2|CurrentColor?RED|DesiredColor?GREEN|XOnBoard?0>
+</Field>
+<Field|leaf|YOnBoard?2|CurrentColor?RED|DesiredColor?NONE|XOnBoard?1>
+</Field>
+<Field|leaf|YOnBoard?2|CurrentColor?RED|DesiredColor?NONE|XOnBoard?2>
+</Field>
+</Level>

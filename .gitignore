@@ -1,0 +1,12 @@
+/target/
+trunk/
+safe/player/
+bin/
+.settings/
+.classpath
+.project
+*.o
+*.obj
+*.lib
+*.so
+*.dll
