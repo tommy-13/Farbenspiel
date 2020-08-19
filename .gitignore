@@ -1,6 +1,7 @@
 /target/
 trunk/
 safe/player/
+lib/natives/
 bin/
 .settings/
 .classpath
@@ -9,4 +10,3 @@ bin/
 *.obj
 *.lib
 *.so
-*.dll
