@@ -1,5 +1,7 @@
 # Farbenspiel
-A small game. The task is to sort colors
+A small game. The task is to sort colors.
+
+The implementation uses external jars (see lib/jars).
 
 
 # External dll's
